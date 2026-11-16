@@ -1,0 +1,1748 @@
+:: StoryTitle
+The Martyrdom of Carpus, Papylus, and Agathonice
+
+
+:: StoryData
+{
+  "ifid": "E8533CA6-DF1A-43AC-BD7E-26A57C2967D6",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "The Martyrdom of Papylus, Carpus and Agathonice",
+  "zoom": 1
+}
+
+
+:: The Martyrdom of Papylus, Carpus and Agathonice {"position":"950,250","size":"100,100"}
+(align:"==><==")[''The Martyrdom of Papylus, Carpus, and Agathonice'']
+<div class="scene" data-scene="pergamum" data-caption="Pergamum, in the province of Asia" data-mono="acropolis"></div>
+Please pick the tradition of the account:
+[[Original Greek and Latin]] or [[Latin Recension (WIP)]]
+
+<div class="endings-list"></div>
+
+
+:: Original Greek and Latin {"position":"700,400","size":"100,100"}
+During the reign of Marcus Aurelius,<span class="fn" data-src="eusebius" data-loc="4.15.48">Eusebius names Carpus, Papylus, and Agathonice among the martyrs of Pergamum in his account of this period.</span> the christians [[Papylus]], [[Carpus]], and [[Agathonice]] were Martyred.<span class="tradition" data-tradition="original"></span>
+
+(align:"===><===")[Please choose a Saint to follow in the footsteps of.
+]
+<div class="icon-frame"><img class="icon-img" src="https://images.oca.org/icons/lg/october/1013carpuspapylusagathoodrus.jpg" alt="Icon of the martyrs Carpus, Papylus, Agathodorus, and Agathonice"><div class="icon-credit">Icon courtesy of the Orthodox Church in America<span class="fn" data-src="oca"></span></div></div>
+
+
+:: Papylus {"position":"500,600","size":"100,100"}
+<div class="scene" data-scene="tribunal" data-caption="Before the proconsul's tribunal" data-mono="choice" data-mono-caption="Will you sacrifice?"></div>
+Having been brought before the proconsul, you watch as your fellow Christian, Carpus, stands strong before his quesitoning, and is brought up to be scraped and tortured after refusing to sacrifice. You have no choice but to watch as he is tortured until his voice goes hoarse before you.
+
+The Proconsul turns to you now, and after a series of questions, he asks, "Will you sacrifice?"
+
+Choose: [[Sacrifice]] or [[Refuse]]
+
+
+:: Sacrifice {"position":"425,800","size":"100,100"}
+<div class="scene" data-scene="altar" data-caption="Incense before the image of the emperor" data-mono="offering"></div>
+Intimidated by the torture of your fellow Christian, you relent and sacrifice to the Emperor.
+
+You survive, but are now apostate and an outsider to the church in which you were born. The community which you once called your children refuses to associate with you. Their trust in themselves and their community has been damaged. For if their teacher can not even stand strong beside his brothers, how could they?
+
+<div class="ending" data-n="1" data-title="The Apostate" data-tradition="original"></div>
+
+
+:: Refuse {"position":"575,800","size":"100,100"}
+<div class="scene" data-scene="pyre" data-caption="The pyres of Pergamum" data-mono="stake" data-mono-caption="Nailed to the stake"></div>
+Refusing to sacrifice, you too are tortured and scraped before walking proud to your building pyre.
+
+Nailed and raised up within the flames, you are the first to die, giving up your soul to God in peace.
+
+Unbeknowst to you, Carpus shares a few last words with the crowd before being put to the flame himself. Moments later, a woman breaks from the crowd and  jumps into the building flames, now standing by your side as you walk along the path towards Heaven's gates.
+
+<div class="ending" data-n="2" data-title="The Fellow Martyr" data-true="yes" data-tradition="original"></div>
+
+
+:: Carpus {"position":"700,600","size":"100,100"}
+<div class="scene" data-scene="tribunal" data-caption="Before the proconsul's tribunal" data-mono="procession" data-mono-caption="Led in chains to the proconsul"></div>
+As you and Papylus are brought forth to the Proconsul, you come to realization that you will be interrogated first. You have a sense of what they will ask, having been raised on the passions of martyrs prior.
+
+The words of prior martyrs when facing their deaths run through your mind, and you must decide if you will follow in their footsteps. What is your own response?
+
+[[Curse the Romans]] or [[Give a Speech (WIP)]]
+
+
+:: Curse the Romans {"position":"650,700","size":"100,100"}
+<div class="scene" data-scene="defiance" data-caption="Carpus curses his captors" data-mono="defiant"></div>
+The Proconsul asks, "What is your name?"
+
+"My name matters not! Send me to my death already, so that I might not see you, our opressors, any longer."
+
+You stubbornly refuse to play their game, not explaining your religion, nor your views. You fight them at every step, and remain steadfast through torture not through strength drawn from faith, but your own will power.
+
+The pagans in the crowd admire your grit, even if you blaspheme their gods, but the Christians there are not inspired. You don't go to your death like a martyr, but a common criminal. Papylus goes quietly afterward like a whisper after your flash.
+
+A mother in the crowd, Agathonice, turns away to go care for her son at home. She never gets her own chance to be a martyr.
+
+<div class="ending" data-n="5" data-title="The Common Thug" data-tradition="original"></div>
+
+
+:: Give a Speech (WIP) {"position":"750,700","size":"100,100"}
+
+
+
+:: Agathonice {"position":"900,600","size":"100,100"}
+<div class="scene" data-scene="market" data-caption="The market of Pergamum" data-mono="market"></div>
+While walking through the markets of Pergamus, you witness a growing crowd. Hearing the chatter of the crowd, you make your way towards the front and are shocked to see two of your fellow Christians, Papylus and Carpus, being charged.
+
+The words of Carpus fill you with inspiration, and you start making your way towards their pyres, "This dinner hath been prepared for me; of this glorious dinner therefore I must needs partake and eat."<span class="fn" data-src="musurillo" data-loc="Greek recension, section/page TBD">Agathonice's own words in the Greek account. Author's to-do: name the translation this wording comes from.</span>
+
+People cry out to you, saying, "Have pity on your son!"<span class="fn" data-src="musurillo" data-loc="Greek recension, section/page TBD"></span>
+
+How do you respond?
+
+[[Stand by your decision]] or [[Be convinced]]
+
+
+:: Stand by your decision {"position":"825,800","size":"100,100"}
+<div class="scene" data-scene="glory" data-caption="Lord, help me, for I flee to thee" data-mono="leap"></div>
+You respond to their pleas, "He hath God who can have pity on him, for he is the protector of all..."
+
+Shedding your outer garments, you leap on to one of the blessed martyr's pyres, joining them in their witness. Shouting out you say, "Lord, Lord, Lord help me, for I flee onto thee."
+
+<div class="ending" data-n="3" data-title="The Bystander" data-true="yes" data-tradition="original"></div>
+
+
+:: Be convinced {"position":"975,800","size":"100,100"}
+<div class="scene" data-scene="pyre" data-caption="The smoke rises over Pergamum" data-mono="vigil"></div>
+You look between both the pyres and the crowd, and allow doubt to creep in. Has this feast really been prepared for me? Or am I just trying to eat off another's plate? Who would care for my son in this life if not me?
+
+You stand conflicted long enough for members of the crowd to grab your arms and clothes and pull you back away from the flames. You stare at the fire as the rising smoke carries the  souls of the two martyrs away to the heavens. Had you missed your chance?
+
+<div class="ending" data-n="4" data-title="The Mother" data-tradition="original"></div>
+
+
+:: Latin Recension (WIP) {"position":"1200,400","size":"100,100"}
+<span class="tradition" data-tradition="recension"></span>
+
+
+:: Sources [sources] {"position":"1200,600","size":"100,100"}
+(align:"==><==")[''Sources'']
+
+<div class="bib">
+<p class="source" data-key="musurillo">Musurillo, Herbert, ed. and trans. //The Acts of the Christian Martyrs//. Oxford: Clarendon Press, 1972.</p>
+<p class="source" data-key="eusebius">Eusebius of Caesarea. //Ecclesiastical History//.</p>
+<p class="source" data-key="oca">Icon of Saints Carpus, Papylus, Agathodorus, and Agathonice (feast of 13 October). Orthodox Church in America, images.oca.org.</p>
+</div>
+(link-undo: "Return to the story")
+
+
+:: Footer [footer] {"position":"1200,100","size":"100,100"}
+<div class="toolbar">(link-goto: "Sources", "Sources")<button class="notes-toggle" type="button" title="Show or hide footnotes (N)">Notes</button><span class="endings-count"></span>(link: "Restart")[(restart:)]</div>
+
+
+:: Author Guide [guide] {"position":"1450,100","size":"100,100"}
+''AUTHOR GUIDE'' - nothing links here; it is a reference for writing the game. Copy the lines in grey into any passage.
+
+''1. Footnotes and citations''
+Put a footnote right after the words it explains:
+`<span class="fn" data-src="musurillo" data-loc="p. 23">Your note text, with //italics// if you like.</span>`
+* data-src (optional) is a key from the Sources passage; the full citation is filled in for you.
+* data-loc (optional) is the page, section, or line.
+* The note text is optional too: `<span class="fn" data-src="eusebius" data-loc="4.15.48"></span>` gives a citation only.
+Notes are numbered automatically, shown as a pop-up when the number is clicked, and listed at the bottom of the passage. The player can switch them all off or on at any point with the Notes button or the N key, and the game remembers the choice.
+
+''2. Adding a source''
+In the Sources passage, add one line per work:
+`<p class="source" data-key="mykey">Author. //Title//. City: Publisher, Year.</p>`
+Keys should be short, lower-case, with no spaces.
+
+''Harlowe traps inside notes and sources''
+* A word followed by a colon inside round brackets, like `(Author: ...)`, is read as a macro and shows an error. Write `Author's note: ...` instead.
+* Two slashes make italics, so web addresses like `https://...` come out wrong; write the site name instead.
+* Two apostrophes in a row make bold.
+
+''3. Pictures''
+Pixel-art scene drawn by the game:
+`<div class="scene" data-scene="pyre" data-caption="Caption under the picture"></div>`
+Scenes available: pergamum, tribunal, defiance, market, altar, pyre, glory. Several can share one scene.
+Your own picture instead (for example a PNG drawn in Piskel or Aseprite, saved in an images folder next to the published HTML file):
+`<div class="scene" data-img="images/my-picture.png" data-caption="Caption"></div>`
+New drawn scenes go in Story, then JavaScript, in the SCENE LIBRARY section; the instructions are written there.
+
+''4. Endings''
+At the bottom of an ending passage:
+`<div class="ending" data-n="6" data-title="Name of the Ending" data-tradition="recension"></div>`
+* data-n is the ending's number in its list; data-title is its name.
+* data-tradition is original or recension. Each tradition keeps its own separate list and count; the title screen has a tab for each.
+* Add data-true="yes" for a True Ending.
+* Totals are counted from the passages, so you never type "5 endings" anywhere: add a sixth ending passage and every page says 6.
+* While you are still writing, set SHOW_ENDING_TOTALS to false at the top of Story JavaScript. The game then says "Ending 2" and "2 endings discovered" and shows ? ? ? instead of the total.
+* The first passage of each tradition has a hidden marker, `<span class="tradition" data-tradition="recension"></span>`, so the footer counter knows which tradition the player is in.
+
+''4b. Picture style''
+At the top of Story JavaScript, ART_STYLE: 'color' gives 16-colour pictures; 'mono' gives one colour on black, like the original Oregon Trail. MONO_COLOR picks that colour.
+The one-colour pictures are a separate set, drawn in the ONE-COLOUR SCENES section of Story JavaScript. A passage picks its one-colour picture and, if you like, a different caption:
+`<div class="scene" data-scene="pyre" data-caption="Colour caption" data-mono="stake" data-mono-caption="One-colour caption"></div>`
+One-colour scenes available: acropolis, choice, procession, defiant, offering, stake, market, leap, vigil.
+
+''5. Controls''
+Keys 1 to 9 choose the numbered links in a passage; N switches notes on or off. To keep a link from being numbered, wrap it in `<span class="no-number">...</span>`.
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=VT323&display=swap');
+
+/* =====================================================================
+   PALETTE - change these values to re-colour the whole game
+   ===================================================================== */
+:root {
+  --bg: #140d0b;          /* page behind everything          */
+  --panel: #2a1b16;       /* the passage "page"              */
+  --ink: #efe3c8;         /* body text                       */
+  --muted: #b5a283;       /* notes, visited links            */
+  --gold: #c9a24a;        /* frames, links                   */
+  --gold-bright: #ecc86a; /* true endings, hover             */
+  --blood: #8b1a1a;       /* outer border                    */
+  --screen: #000;         /* behind pictures and ending card */
+  --serif: 'Cormorant Garamond', Georgia, serif;
+  --pixel: 'VT323', 'Courier New', monospace;
+}
+
+html, body { background: var(--bg); }
+::selection { background: var(--gold); color: #140d0b; }
+
+/* ---------- story & passage ---------- */
+tw-story {
+  box-sizing: border-box;
+  min-height: 100vh;
+  padding: 3rem 1.25rem 4rem;
+  background: radial-gradient(ellipse at 50% 0%, #2e1a13 0%, var(--bg) 70%);
+  border: 5px solid var(--blood);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+tw-passage {
+  position: relative;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 44rem;
+  margin: 0 auto;
+  padding: 2.75rem 2.5rem 1.75rem;
+  background: var(--panel) linear-gradient(180deg, rgba(255, 255, 255, .03), rgba(0, 0, 0, .2));
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.2em;
+  line-height: 1.6;
+  border: 2px solid var(--gold);
+  outline: 1px solid rgba(201, 162, 74, .45);
+  outline-offset: 5px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, .6);
+}
+
+tw-passage b, tw-passage strong { font-weight: 600; letter-spacing: .01em; }
+
+/* undo / redo arrows in the passage's top-right corner */
+tw-sidebar {
+  position: absolute;
+  top: .55rem;
+  right: .8rem;
+  left: auto;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+  gap: .6rem;
+  z-index: 2;
+}
+tw-sidebar tw-icon { margin: 0; font-size: 1.3rem; line-height: 1; color: var(--gold); }
+tw-sidebar tw-icon[alt] { opacity: .5; }
+tw-sidebar tw-icon[alt]:hover { opacity: 1; }
+
+/* ---------- choices ---------- */
+tw-passage tw-link,
+tw-passage .enchantment-link {
+  display: inline-block;
+  margin: .2em .1em;
+  padding: .05em .55em .1em;
+  border: 1px solid var(--gold);
+  background: rgba(0, 0, 0, .3);
+  color: var(--gold);
+  font-family: var(--pixel);
+  font-weight: normal;
+  font-size: 1.15em;
+  line-height: 1.2;
+  text-decoration: none;
+  transition: background-color .12s, color .12s;
+}
+tw-passage tw-link:hover,
+tw-passage tw-link:focus-visible,
+tw-passage .enchantment-link:hover {
+  background: var(--gold);
+  color: #140d0b;
+  outline: none;
+}
+tw-passage tw-link.visited { color: var(--muted); border-color: var(--muted); }
+tw-passage tw-link.visited:hover { background: var(--muted); color: #140d0b; }
+
+/* keyboard number badge, Oregon-Trail style */
+tw-link[data-key]::before {
+  content: attr(data-key);
+  display: inline-block;
+  min-width: 1em;
+  margin-right: .45em;
+  padding: 0 .2em;
+  background: var(--gold);
+  color: #140d0b;
+  text-align: center;
+}
+tw-link.visited[data-key]::before { background: var(--muted); }
+tw-link[data-key]:hover::before { background: #140d0b; color: var(--gold); }
+
+/* ---------- pictures ---------- */
+.scene {
+  margin: 0 0 1.4rem;
+  padding: 6px 6px 2px;
+  background: var(--screen);
+  border: 2px solid var(--gold);
+}
+.scene-screen { position: relative; }
+.scene-screen::after { /* faint CRT scanlines */
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: repeating-linear-gradient(0deg, rgba(0, 0, 0, .16) 0 1px, transparent 1px 3px);
+}
+.scene canvas,
+.scene img,
+img.pixel-img {
+  display: block;
+  width: 100%;
+  height: auto;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
+.scene canvas { aspect-ratio: 16 / 9; }
+/* ---------- one-colour (mono) look: an Apple II screen ---------- */
+html.art-mono .scene {
+  padding: 14px 14px 12px;
+  background: #000;
+  border: 3px solid var(--gold);
+  border-radius: 6px;
+  box-shadow: inset 0 0 30px rgba(201, 162, 74, .08);
+}
+html.art-mono .scene-screen::after { display: none; }
+html.art-mono .scene canvas { filter: drop-shadow(0 0 1.5px rgba(201, 162, 74, .7)); }
+html.art-mono .scene-caption {
+  margin: 12px 4px 0;
+  padding: .2em .6em .25em;
+  border: 3px solid var(--gold);
+  border-radius: 12px;
+  color: var(--gold);
+  font-size: 1.35em;
+  text-shadow: 0 0 4px rgba(201, 162, 74, .6);
+}
+html.art-mono .ending {
+  border: 3px solid var(--gold);
+  border-radius: 12px;
+  color: var(--gold);
+  text-shadow: 0 0 4px rgba(201, 162, 74, .5);
+}
+html.art-mono .ending.true-ending { box-shadow: none; outline: 3px solid var(--gold); outline-offset: 4px; }
+.scene-caption {
+  padding: .3em .5em .2em;
+  color: #fff;
+  font-family: var(--pixel);
+  font-size: 1.05em;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: .03em;
+}
+
+.icon-frame { margin: 1.2rem auto 0; text-align: center; }
+.icon-img {
+  display: block;
+  max-width: 100%;
+  max-height: 70vh;
+  margin: 0 auto;
+  border: 2px solid var(--gold);
+  padding: 4px;
+  background: var(--screen);
+}
+.icon-credit { margin-top: .35em; color: var(--muted); font-size: .7em; font-style: italic; }
+tw-passage img { max-width: 100%; height: auto; }
+
+/* ---------- footnotes ---------- */
+span.fn { display: none; } /* raw note, before the script numbers it */
+.fn-ref {
+  position: relative;
+  top: -.55em;
+  margin: 0 .05em;
+  padding: 0 .2em;
+  border: 0;
+  background: none;
+  color: var(--gold);
+  font-family: var(--pixel);
+  font-size: .75em;
+  line-height: 1;
+  cursor: pointer;
+}
+.fn-ref::before { content: '['; }
+.fn-ref::after { content: ']'; }
+.fn-ref:hover, .fn-ref:focus-visible { color: var(--gold-bright); text-decoration: underline; outline: none; }
+
+.fn-notes {
+  margin-top: 2rem;
+  padding-top: .6rem;
+  border-top: 1px dashed rgba(201, 162, 74, .5);
+  color: var(--muted);
+  font-size: .78em;
+  line-height: 1.45;
+}
+.fn-head {
+  color: var(--gold);
+  font-family: var(--pixel);
+  font-size: 1.2em;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+.fn-notes ol { margin: .3em 0 0; padding-left: 1.6em; }
+.fn-notes li { margin: .25em 0; }
+.fn-cite { font-style: normal; }
+.fn-missing { color: #ff7a7a; }
+
+.fn-pop {
+  position: absolute;
+  z-index: 100;
+  box-sizing: border-box;
+  max-width: min(24rem, calc(100vw - 16px));
+  padding: .6em .8em;
+  background: #0d0807;
+  border: 1px solid var(--gold);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, .6);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+.fn-pop-n {
+  margin-right: .5em;
+  color: var(--gold);
+  font-family: var(--pixel);
+}
+
+html.notes-off .fn-ref,
+html.notes-off .fn-notes,
+html.notes-off .fn-pop { display: none; }
+
+/* ---------- ending card ---------- */
+.ending {
+  margin-top: 1.8rem;
+  padding: .9em 1em;
+  border: 2px solid var(--muted);
+  background: var(--screen);
+  color: #fff;
+  font-family: var(--pixel);
+  text-align: center;
+  line-height: 1.2;
+}
+.ending-label { font-size: .85em; letter-spacing: .2em; text-transform: uppercase; opacity: .75; }
+.ending-name { margin: .2em 0; font-size: 1.7em; }
+.ending-count { font-size: .9em; opacity: .75; }
+.ending.true-ending { border-color: var(--gold); color: var(--gold-bright); box-shadow: 0 0 18px rgba(201, 162, 74, .25); }
+
+/* ---------- endings list (title screen) ---------- */
+.endings-list {
+  margin-top: 1.6rem;
+  padding: .8em 1em;
+  border: 1px solid rgba(201, 162, 74, .4);
+  background: rgba(0, 0, 0, .25);
+  font-family: var(--pixel);
+  font-size: .95em;
+  line-height: 1.3;
+}
+.endings-list:empty { display: none; }
+.endings-head { color: var(--gold); letter-spacing: .08em; text-transform: uppercase; }
+.endings-list ol { margin: .4em 0 .2em; padding-left: 1.8em; }
+.endings-list li.unfound { color: #6f6150; }
+.endings-list li.true { color: var(--gold-bright); }
+.endings-tabs { display: flex; flex-wrap: wrap; gap: .3rem; margin-bottom: .6rem; }
+.endings-tab {
+  padding: .1em .6em;
+  border: 1px solid var(--muted);
+  background: none;
+  color: var(--muted);
+  font-family: var(--pixel);
+  font-size: .95em;
+  cursor: pointer;
+}
+.endings-tab[aria-selected="true"] { border-color: var(--gold); background: var(--gold); color: #140d0b; }
+.endings-tab:hover { color: var(--gold-bright); border-color: var(--gold-bright); }
+.endings-tab[aria-selected="true"]:hover { color: #140d0b; }
+.endings-list .unfound { color: #6f6150; }
+.endings-empty { margin: .4em 0 0; color: var(--muted); font-style: italic; }
+.tradition { display: none; }
+.endings-reset {
+  margin-top: .4em;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font-family: var(--pixel);
+  font-size: .9em;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* ---------- footer toolbar ---------- */
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: .3rem 1.2rem;
+  margin-top: 2rem;
+  padding-top: .7rem;
+  border-top: 1px solid rgba(201, 162, 74, .3);
+  color: var(--muted);
+  font-family: var(--pixel);
+  font-size: .85em;
+}
+.toolbar tw-link,
+.toolbar .notes-toggle {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font-family: var(--pixel);
+  font-size: 1em;
+  cursor: pointer;
+}
+.toolbar tw-link:hover,
+.toolbar .notes-toggle:hover { background: none; color: var(--gold-bright); text-decoration: underline; }
+
+/* ---------- sources page ---------- */
+.source { margin: .5em 0; padding-left: 1.5em; text-indent: -1.5em; }
+
+/* ---------- phones ---------- */
+@media (max-width: 600px) {
+  tw-story { padding: 1rem .5rem 2rem; border-width: 3px; font-size: 1.1rem; }
+  tw-passage { padding: 2.4rem 1rem 1.25rem; outline: none; }
+}
+
+
+:: StoryScript [script]
+/* =====================================================================
+   THE MARTYRDOM OF PAPYLUS, CARPUS, AND AGATHONICE  -  Story JavaScript
+   ---------------------------------------------------------------------
+   What this file does (you normally only edit section 6, SCENE LIBRARY):
+     1. small helpers
+     2. footnotes / citations  (<span class="fn" ...>)
+     3. notes on/off toggle    (button in the Footer passage, or key N)
+     4. endings tracker        (<div class="ending" ...>)
+     5. number-key choices     (keys 1-9 click the links in a passage)
+     6. SCENE LIBRARY          (Oregon-Trail-style pixel pictures)
+     7. wiring it all to Harlowe
+   See the "Author Guide" passage for copy-paste examples.
+   ===================================================================== */
+(function () {
+  'use strict';
+
+  /* =====================================================================
+     SETTINGS  -  the things you are most likely to change
+     ===================================================================== */
+  var CONFIG = {
+    /* 'color' = 16-colour pictures;  'mono' = one colour on black, like
+       the original Oregon Trail.  MONO_COLOR is that one colour. */
+    ART_STYLE: 'color',
+    MONO_COLOR: '#c9a24a',
+
+    /* true  -> "Ending 2 of 5",  "2 of 5 endings discovered"
+       false -> "Ending 2",       "2 endings discovered"  (keeps totals secret,
+                                   handy while you are still writing endings) */
+    SHOW_ENDING_TOTALS: true,
+
+    /* Each tradition keeps its own list of endings. An ending belongs to the
+       tradition named in its data-tradition="..." (the first one if left out). */
+    TRADITIONS: [
+      { id: 'original',  name: 'Original Greek and Latin', short: 'Original' },
+      { id: 'recension', name: 'Latin Recension',          short: 'Recension' }
+    ]
+  };
+
+  /* ---------- 1. helpers ---------- */
+  var STORE = 'pcag:';
+  function load(k, d) {
+    try { var v = localStorage.getItem(STORE + k); return v === null ? d : JSON.parse(v); }
+    catch (e) { return d; }
+  }
+  function save(k, v) { try { localStorage.setItem(STORE + k, JSON.stringify(v)); } catch (e) {} }
+  function each(list, fn) { Array.prototype.forEach.call(list, fn); }
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c];
+    });
+  }
+  function parseHTML(raw) { return new DOMParser().parseFromString(raw, 'text/html'); }
+  function setText(el, txt) { if (el.textContent !== txt) el.textContent = txt; }
+  /* Harlowe-style //italics// and ''bold'' for text read straight from passages */
+  function miniMarkup(html) {
+    return html.replace(/\/\/([\s\S]+?)\/\//g, '<i>$1</i>').replace(/''([\s\S]+?)''/g, '<b>$1</b>');
+  }
+
+  /* ---------- 2. footnotes / citations ---------- */
+  var sourceCache = null;
+  function getSources() {
+    if (sourceCache) return sourceCache;
+    sourceCache = {};
+    each(document.querySelectorAll('tw-passagedata[tags~="sources"]'), function (p) {
+      each(parseHTML(p.textContent).querySelectorAll('[data-key]'), function (el) {
+        sourceCache[el.getAttribute('data-key')] = miniMarkup(el.innerHTML.trim());
+      });
+    });
+    return sourceCache;
+  }
+
+  function processNotes(passage) {
+    var raw = passage.querySelectorAll('span.fn');
+    if (!raw.length) return;
+    var aside = passage.querySelector('.fn-notes');
+    if (!aside) {
+      aside = document.createElement('aside');
+      aside.className = 'fn-notes';
+      aside.innerHTML = '<div class="fn-head">Notes</div><ol></ol>';
+      var tb = passage.querySelector('.toolbar');
+      var anchor = tb ? (tb.closest('tw-include') || tb) : null;
+      if (anchor && anchor.parentNode) anchor.parentNode.insertBefore(aside, anchor);
+      else passage.appendChild(aside);
+    }
+    var ol = aside.querySelector('ol');
+    var srcs = getSources();
+    each(raw, function (fn) {
+      var n = ol.children.length + 1;
+      var key = fn.getAttribute('data-src');
+      var loc = fn.getAttribute('data-loc');
+      var parts = [];
+      var body = fn.innerHTML.trim();
+      if (body) parts.push(body);
+      if (key) {
+        var cite = srcs[key] ||
+          '<span class="fn-missing">[No source "' + esc(key) + '" - add it to the Sources passage]</span>';
+        if (loc) cite = cite.replace(/\.\s*$/, '') + ', ' + esc(loc) + '.';
+        parts.push('<span class="fn-cite">' + cite + '</span>');
+      } else if (loc) {
+        parts.push('<span class="fn-cite">' + esc(loc) + '</span>');
+      }
+      var html = parts.join(' ');
+      var li = document.createElement('li');
+      li.innerHTML = html;
+      ol.appendChild(li);
+      var ref = document.createElement('button');
+      ref.type = 'button';
+      ref.className = 'fn-ref';
+      ref.textContent = n;
+      ref.setAttribute('aria-label', 'Note ' + n);
+      ref._note = html;
+      ref._n = n;
+      fn.parentNode.replaceChild(ref, fn);
+    });
+  }
+
+  var pop = null;
+  function closePop() { if (pop) { pop.parentNode && pop.parentNode.removeChild(pop); pop = null; } }
+  function openPop(ref) {
+    closePop();
+    pop = document.createElement('div');
+    pop.className = 'fn-pop';
+    pop.setAttribute('role', 'note');
+    pop.innerHTML = '<span class="fn-pop-n">' + ref._n + '</span>' + ref._note;
+    document.body.appendChild(pop);
+    var r = ref.getBoundingClientRect();
+    var vw = document.documentElement.clientWidth;
+    var left = r.left + window.pageXOffset - pop.offsetWidth / 2;
+    left = Math.max(window.pageXOffset + 8, Math.min(left, window.pageXOffset + vw - pop.offsetWidth - 8));
+    pop.style.left = left + 'px';
+    pop.style.top = (r.bottom + window.pageYOffset + 8) + 'px';
+    pop._ref = ref;
+  }
+
+  /* ---------- 3. notes on/off ---------- */
+  var notesOn = load('notesOn', true);
+  function applyNotes() {
+    var root = document.documentElement;
+    if (root.classList.contains('notes-off') === notesOn) root.classList.toggle('notes-off', !notesOn);
+    each(document.querySelectorAll('.notes-toggle'), function (b) {
+      setText(b, 'Notes: ' + (notesOn ? 'On' : 'Off'));
+      if (b.getAttribute('aria-pressed') !== String(notesOn)) b.setAttribute('aria-pressed', String(notesOn));
+    });
+    if (!notesOn) closePop();
+  }
+  function toggleNotes() { notesOn = !notesOn; save('notesOn', notesOn); applyNotes(); }
+
+  /* ---------- 4. endings tracker (separate list per tradition) ----------
+     Totals are counted from the passages themselves: every
+     <div class="ending" data-title="..."> is one ending, so adding or
+     removing an ending passage updates every count automatically. */
+  var TOTALS = CONFIG.SHOW_ENDING_TOTALS;
+  function tradOf(el) { return el.getAttribute('data-tradition') || CONFIG.TRADITIONS[0].id; }
+  function tradInfo(id) {
+    for (var i = 0; i < CONFIG.TRADITIONS.length; i++) if (CONFIG.TRADITIONS[i].id === id) return CONFIG.TRADITIONS[i];
+    return { id: id, name: id, short: id };
+  }
+  function currentTrad() { return load('tradition', CONFIG.TRADITIONS[0].id); }
+
+  var endingCache = null;
+  function allEndings(trad) {
+    if (!endingCache) {
+      endingCache = [];
+      each(document.querySelectorAll('tw-passagedata:not([tags~="guide"])'), function (p) {
+        var t = p.textContent;
+        if (t.indexOf('class="ending') < 0) return;
+        each(parseHTML(t).querySelectorAll('.ending[data-title]'), function (el) {
+          endingCache.push({
+            title: el.getAttribute('data-title'),
+            trad: tradOf(el),
+            n: parseFloat(el.getAttribute('data-n')) || 999,
+            isTrue: el.hasAttribute('data-true')
+          });
+        });
+      });
+      endingCache.sort(function (a, b) { return a.n - b.n; });
+    }
+    return endingCache.filter(function (e) { return e.trad === trad; });
+  }
+  function foundKey(trad, title) { return trad + '|' + title; }
+  function foundCount(trad) {
+    var found = load('found', {});
+    return allEndings(trad).filter(function (e) { return found[foundKey(trad, e.title)]; }).length;
+  }
+  function tally(trad, sep) {
+    return foundCount(trad) + (TOTALS ? sep + allEndings(trad).length : '');
+  }
+
+  function processEndings(passage) {
+    /* hidden markers that say which tradition the player is in */
+    each(passage.querySelectorAll('.tradition[data-tradition]'), function (el) {
+      if (currentTrad() !== tradOf(el)) save('tradition', tradOf(el));
+    });
+    each(passage.querySelectorAll('.ending:not([data-done])'), function (el) {
+      el.setAttribute('data-done', '');
+      var title = el.getAttribute('data-title') || 'An Ending';
+      var trad = tradOf(el);
+      var found = load('found', {});
+      found[foundKey(trad, title)] = true;
+      save('found', found);
+      save('tradition', trad);
+      var n = el.getAttribute('data-n');
+      var isTrue = el.hasAttribute('data-true');
+      if (isTrue) el.classList.add('true-ending');
+      el.innerHTML =
+        '<div class="ending-label">' + esc(tradInfo(trad).short) + ' · ' +
+        (n ? 'Ending ' + esc(n) + (TOTALS ? ' of ' + allEndings(trad).length : '') : 'Ending') +
+        (isTrue ? ' · True Ending' : '') + '</div>' +
+        '<div class="ending-name">' + (isTrue ? '✠ ' : '') + esc(title) + (isTrue ? ' ✠' : '') + '</div>' +
+        '<div class="ending-count">' + tally(trad, ' of ') + ' endings discovered</div>';
+    });
+    each(document.querySelectorAll('.endings-count'), function (el) {
+      var t = currentTrad();
+      setText(el, tradInfo(t).short + ' endings: ' + tally(t, '/'));
+    });
+    each(passage.querySelectorAll('.endings-list:not([data-done])'), function (el) {
+      el.setAttribute('data-done', '');
+      renderEndingList(el, currentTrad());
+    });
+  }
+  function renderEndingList(el, trad) {
+    var found = load('found', {});
+    var list = allEndings(trad);
+    var html = '<div class="endings-tabs" role="tablist">';
+    CONFIG.TRADITIONS.forEach(function (t) {
+      html += '<button type="button" role="tab" class="endings-tab" data-trad="' + esc(t.id) + '" aria-selected="' +
+        (t.id === trad) + '">' + esc(t.name) + '</button>';
+    });
+    html += '</div><div class="endings-head">Endings discovered: ' + tally(trad, ' of ') + '</div>';
+    if (!list.length) {
+      html += '<p class="endings-empty">No endings written for this tradition yet.</p>';
+    } else {
+      html += '<ol>';
+      list.forEach(function (e) {
+        if (found[foundKey(trad, e.title)])
+          html += '<li class="found' + (e.isTrue ? ' true' : '') + '"' + (e.n < 999 ? ' value="' + e.n + '"' : '') + '>' +
+            (e.isTrue ? '✠ ' : '') + esc(e.title) + '</li>';
+        else if (TOTALS)
+          html += '<li class="unfound"' + (e.n < 999 ? ' value="' + e.n + '"' : '') + '>? ? ?</li>';
+      });
+      html += '</ol>';
+      if (!TOTALS) html += '<div class="unfound">? ? ?</div>';
+    }
+    if (foundCount(trad)) html += '<button type="button" class="endings-reset" data-trad="' + esc(trad) + '">Forget these endings</button>';
+    el.setAttribute('data-trad', trad);
+    el.innerHTML = html;
+  }
+
+  /* ---------- 5. number keys pick choices ---------- */
+  function numberLinks(passage) {
+    var i = 0;
+    each(passage.querySelectorAll('tw-link'), function (a) {
+      var skip = a.closest('.toolbar') || a.closest('tw-sidebar') || a.closest('.no-number');
+      if (!skip) i++;
+      var want = (!skip && i <= 9) ? String(i) : null;
+      if (a.getAttribute('data-key') !== want) {
+        if (want) a.setAttribute('data-key', want); else a.removeAttribute('data-key');
+      }
+    });
+  }
+  function currentPassage() {
+    var ps = document.querySelectorAll('tw-story tw-passage');
+    return ps.length ? ps[ps.length - 1] : null;
+  }
+
+  /* =====================================================================
+     6. SCENE LIBRARY  -  Oregon-Trail-style pictures
+     ---------------------------------------------------------------------
+     Every scene is drawn on a tiny 160 x 90 grid using the 16-colour EGA
+     palette (the palette of 1980s PC games), then blown up with crisp
+     square pixels.  Colour numbers:
+        0 black      1 blue        2 green       3 cyan
+        4 red        5 magenta     6 brown       7 light grey
+        8 dark grey  9 light blue 10 light green 11 light cyan
+       12 pink-red  13 pink       14 yellow     15 white
+     Anywhere a colour goes you may also write a DITHER  [c1, c2, level]
+     which checkers two colours (level 0 = all c1 ... 16 = all c2).
+     Use -1 as a colour for "transparent".
+
+     Drawing commands (g is the picture):
+       g.fill(c)                      whole picture
+       g.rect(x, y, w, h, c)          rectangle
+       g.circle(cx, cy, r, c)         filled circle
+       g.ring(cx, cy, r, c)           circle outline
+       g.line(x0, y0, x1, y1, c)      line
+       g.poly([x,y, x,y, ...], c)     filled polygon
+       g.vgrad(y0, y1, [c, c, ...])   dithered top-to-bottom gradient (skies!)
+       g.vgrad(y0, y1, [c, ...], x0, x1)   ...only between x0 and x1
+       g.sprite(rows, x, y, map, scale)  little text-drawn figures, see FIGURE
+                                      (scale 2 = each character is 2x2 pixels)
+       g.rng(seed)                    repeatable random numbers 0..1
+
+     To add a scene, copy one below, rename it, and use it in a passage:
+       <div class="scene" data-scene="myscene" data-caption="Words"></div>
+     Set  animate: true  to have draw() called ~7 times a second with an
+     increasing frame number t (used for fire and smoke).
+     ===================================================================== */
+  var W = 160, H = 90;
+  var EGA = ['#000000', '#0000aa', '#00aa00', '#00aaaa', '#aa0000', '#aa00aa', '#aa5500', '#aaaaaa',
+             '#555555', '#5555ff', '#55ff55', '#55ffff', '#ff5555', '#ff55ff', '#ffff55', '#ffffff',
+             '#e0a070']; /* 16 = skin: the one colour added to the EGA set, so people stand out from brown floors */
+  var RGB = EGA.map(function (h) { return [parseInt(h.substr(1, 2), 16), parseInt(h.substr(3, 2), 16), parseInt(h.substr(5, 2), 16)]; });
+  var BAYER = [0, 8, 2, 10, 12, 4, 14, 6, 3, 11, 1, 9, 15, 7, 13, 5];
+
+  /* ---- MONO mode (ART_STYLE: 'mono') ----
+     Each colour becomes a brightness of the one MONO_COLOR on black:
+       0 = black, 4 = sparse dots, 8 = checkerboard, 12 = mostly lit, 16 = solid.
+     DEFAULT_MONO gives the brightness for colours 0..15. A scene can override
+     any of them with   mono: { 8: 4, 6: 8 }   (colour number: brightness).
+     People drawn with person() / fig() always become solid gold silhouettes
+     with a black outline, so they read clearly against any background. */
+  var MONO = CONFIG.ART_STYLE === 'mono';
+  var MONO_RGB = [parseInt(CONFIG.MONO_COLOR.substr(1, 2), 16), parseInt(CONFIG.MONO_COLOR.substr(3, 2), 16), parseInt(CONFIG.MONO_COLOR.substr(5, 2), 16)];
+  /*                 K  B  G  C  R  M  N  L  D  LB LG LC LR PK Y   WH */
+  var DEFAULT_MONO = [0, 0, 4, 4, 4, 4, 4, 8, 0, 4, 8, 8, 8, 8, 16, 16, 12];
+  function monoMap(def) {
+    var m = DEFAULT_MONO.slice();
+    if (def && def.mono) for (var k in def.mono) m[k] = def.mono[k];
+    m[15] = 16; /* white always solid: used for figures */
+    return m;
+  }
+
+  function Pic(map) { this.buf = new Uint8Array(W * H); this.mono = MONO; this.map = map || monoMap(); }
+  Pic.prototype.px = function (x, y, c) {
+    x = Math.floor(x); y = Math.floor(y);
+    if (x < 0 || y < 0 || x >= W || y >= H) return;
+    if (Array.isArray(c)) {
+      if (this.mono && c[0] >= 0 && c[1] >= 0) { /* blend brightnesses instead of dithering twice */
+        var a = this.map[c[0]], b = this.map[c[1]];
+        this.buf[y * W + x] = Math.round(a + (b - a) * c[2] / 16);
+        return;
+      }
+      c = BAYER[(y & 3) * 4 + (x & 3)] < c[2] ? c[1] : c[0];
+    }
+    if (c == null || c < 0) return;
+    this.buf[y * W + x] = this.mono ? this.map[c] : c;
+  };
+  Pic.prototype.fill = function (c) { this.rect(0, 0, W, H, c); };
+  Pic.prototype.rect = function (x, y, w, h, c) {
+    for (var j = Math.floor(y); j < y + h; j++) for (var i = Math.floor(x); i < x + w; i++) this.px(i, j, c);
+  };
+  Pic.prototype.circle = function (cx, cy, r, c) {
+    for (var dy = -r; dy <= r; dy++) for (var dx = -r; dx <= r; dx++)
+      if (dx * dx + dy * dy <= r * r + r * 0.6) this.px(cx + dx, cy + dy, c);
+  };
+  Pic.prototype.ring = function (cx, cy, r, c) {
+    for (var dy = -r - 1; dy <= r + 1; dy++) for (var dx = -r - 1; dx <= r + 1; dx++) {
+      var d = Math.sqrt(dx * dx + dy * dy);
+      if (Math.abs(d - r) < 0.5) this.px(cx + dx, cy + dy, c);
+    }
+  };
+  Pic.prototype.line = function (x0, y0, x1, y1, c) {
+    x0 = Math.round(x0); y0 = Math.round(y0); x1 = Math.round(x1); y1 = Math.round(y1);
+    var dx = Math.abs(x1 - x0), sx = x0 < x1 ? 1 : -1, dy = -Math.abs(y1 - y0), sy = y0 < y1 ? 1 : -1, err = dx + dy;
+    for (;;) {
+      this.px(x0, y0, c);
+      if (x0 === x1 && y0 === y1) break;
+      var e2 = 2 * err;
+      if (e2 >= dy) { err += dy; x0 += sx; }
+      if (e2 <= dx) { err += dx; y0 += sy; }
+    }
+  };
+  Pic.prototype.poly = function (pts, c) {
+    var n = pts.length / 2, minY = H, maxY = 0, i, j;
+    for (i = 0; i < n; i++) { minY = Math.min(minY, pts[2 * i + 1]); maxY = Math.max(maxY, pts[2 * i + 1]); }
+    for (var y = Math.max(0, Math.floor(minY)); y <= Math.min(H - 1, Math.ceil(maxY)); y++) {
+      var yc = y + 0.5, xs = [];
+      for (i = 0, j = n - 1; i < n; j = i++) {
+        var xi = pts[2 * i], yi = pts[2 * i + 1], xj = pts[2 * j], yj = pts[2 * j + 1];
+        if ((yi > yc) !== (yj > yc)) xs.push(xi + (yc - yi) * (xj - xi) / (yj - yi));
+      }
+      xs.sort(function (a, b) { return a - b; });
+      for (var k = 0; k + 1 < xs.length; k += 2)
+        for (var x = Math.round(xs[k]); x < Math.round(xs[k + 1]); x++) this.px(x, y, c);
+    }
+  };
+  Pic.prototype.vgrad = function (y0, y1, cols, x0, x1) {
+    x0 = x0 || 0; x1 = x1 == null ? W : x1;
+    var span = Math.max(1, y1 - y0 - 1);
+    for (var y = y0; y < y1; y++) {
+      var f = (y - y0) / span * (cols.length - 1);
+      var k = Math.min(Math.floor(f), cols.length - 2);
+      var level = Math.round((f - k) * 16);
+      for (var x = x0; x < x1; x++) this.px(x, y, [cols[k], cols[k + 1], level]);
+    }
+  };
+  Pic.prototype.sprite = function (rows, x, y, map, scale) {
+    var s = scale || 1;
+    for (var j = 0; j < rows.length; j++) for (var i = 0; i < rows[j].length; i++) {
+      var ch = rows[j].charAt(i);
+      if (map.hasOwnProperty(ch)) this.rect(x + i * s, y + j * s, s, s, map[ch]);
+    }
+  };
+  Pic.prototype.rng = function (seed) {
+    var a = (seed >>> 0) || 1;
+    return function () {
+      a = (a + 0x6D2B79F5) | 0;
+      var t = Math.imul(a ^ (a >>> 15), 1 | a);
+      t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t;
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+    };
+  };
+
+  function paint(canvas, g) {
+    var ctx = canvas.getContext('2d');
+    var img = ctx.createImageData(W, H);
+    for (var i = 0; i < W * H; i++) {
+      var c;
+      if (MONO) {
+        var x = i % W, y = (i - x) / W;
+        c = BAYER[(y & 3) * 4 + (x & 3)] < g.buf[i] ? MONO_RGB : RGB[0];
+      } else c = RGB[g.buf[i]];
+      img.data[4 * i] = c[0]; img.data[4 * i + 1] = c[1]; img.data[4 * i + 2] = c[2]; img.data[4 * i + 3] = 255;
+    }
+    ctx.putImageData(img, 0, 0);
+  }
+  if (MONO) document.documentElement.classList.add('art-mono');
+
+  /* --- colour names, so scenes read more easily --- */
+  var K = 0, B = 1, G = 2, C = 3, R = 4, M = 5, N = 6, L = 7, D = 8, LB = 9, LG = 10, LC = 11, LR = 12, PK = 13, Y = 14, WH = 15, SK = 16;
+
+  /* --- FIGURE: a standing person, 5 wide x 11 tall.
+         H = hair/veil, S = skin, R = robe; '.' = transparent --- */
+  var FIGURE = [
+    '.HHH.',
+    '.SSS.',
+    '..S..',
+    'RRRRR',
+    'RRRRR',
+    'SRRRS',
+    '.RRR.',
+    '.RRR.',
+    '.RRR.',
+    '.R.R.',
+    '.S.S.'
+  ];
+  var OFFERING = [ /* person holding a hand out to the right */
+    '.HHH..',
+    '.SSS..',
+    '..S...',
+    'RRRRSS',
+    'RRRR..',
+    'SRRR..',
+    '.RRR..',
+    '.RRR..',
+    '.RRR..',
+    '.R.R..',
+    '.S.S..'
+  ];
+  var SEATED = [ /* magistrate on a chair, facing left; M = purple stripe */
+    '....HHH.',
+    '....SSS.',
+    '....SSS.',
+    '...WWWW.',
+    '..WMWWWW',
+    '.SWMWWWW',
+    '...MWWWW',
+    'WWWWWWWW',
+    'WWWWWWWW',
+    'WW......',
+    'WW......',
+    'SS......'
+  ];
+  var CHILD = ['.H.', '.S.', 'RRR', 'SRS', '.R.', 'S.S'];
+  var ARMS_UP = [ /* person with both arms raised */
+    'S.....S',
+    'R.HHH.R',
+    'R.SSS.R',
+    'RR.S.RR',
+    '.RRRRR.',
+    '.RRRRR.',
+    '..RRR..',
+    '..RRR..',
+    '..RRR..',
+    '..RRR..',
+    '..R.R..',
+    '..S.S..'
+  ];
+
+  /* fig(): draw any figure sprite. In mono mode it becomes a solid silhouette
+     (H stays black as hair/helmet) with a 1-pixel black outline. */
+  /* fig(): draw any figure sprite with a 1-pixel black outline.
+     In colour, skin (S) is always SK so faces and hands show against brown
+     floors. In mono it becomes a solid silhouette (H stays black). */
+  function fig(g, rows, x, y, map, scale) {
+    var m = {}, o = {};
+    for (var k in map) {
+      o[k] = K;
+      m[k] = g.mono ? (k === 'H' ? K : WH) : (k === 'S' ? SK : map[k]);
+    }
+    [[-1, 0], [1, 0], [0, -1], [0, 1]].forEach(function (d) { g.sprite(rows, x + d[0], y + d[1], o, scale); });
+    g.sprite(rows, x, y, m, scale);
+  }
+  /* person(g, x, y, robeColour, hairColour, skinColour, rows, scale) */
+  function person(g, x, y, robe, hair, skin, rows, scale) {
+    fig(g, rows || FIGURE, x, y, { H: hair == null ? K : hair, S: skin == null ? N : skin, R: robe }, scale);
+  }
+  function crowd(g, y, cols, seed) {
+    var r = g.rng(seed);
+    for (var x = -2; x < W + 4; x += 4 + Math.floor(r() * 4)) {
+      var c = cols[Math.floor(r() * cols.length)];
+      var hy = y + Math.floor(r() * 4);
+      g.circle(x, hy, 2, c);
+      g.rect(x - 3, hy + 2, 7, H - hy, c);
+    }
+  }
+  function flames(g, cx, base, halfW, t, seed) {
+    var r = g.rng(seed + t * 977);
+    for (var x = cx - halfW; x <= cx + halfW; x++) {
+      var h = Math.floor(10 + r() * 18 - Math.abs(x - cx) * 0.7);
+      for (var k = 0; k < h; k++) {
+        if (k > h * 0.7 && r() < 0.35) continue;
+        g.px(x, base - k, k < h * 0.35 ? R : k < h * 0.7 ? LR : Y);
+      }
+    }
+    for (var s = 0; s < 4; s++) g.px(cx - halfW + r() * halfW * 2, base - 18 - r() * 12, Y); /* sparks */
+  }
+  function smoke(g, cx, top, t, seed) {
+    for (var i = 0; i < 6; i++) {
+      var age = (t * 0.6 + i * 6) % 36;
+      var x = cx + Math.sin((t + i * 11 + seed) / 7) * 3 + age * 0.4;
+      g.circle(x, top - age, 3 + Math.floor(age / 10), [-1, D, 7 - Math.floor(age / 7)]);
+    }
+  }
+  function woodpile(g, cx, base) {
+    g.poly([cx - 17, base, cx, base - 15, cx + 18, base], [N, K, 5]);
+    for (var i = -12; i <= 12; i += 6) g.line(cx + i - 3, base - 1, cx + i + 3, base - 9 + Math.abs(i) / 2, K);
+  }
+
+  var SCENES = {
+
+    /* Title: the acropolis of Pergamum at dusk */
+    pergamum: {
+      mono: { 5: 0, 12: 4, 14: 8 }, /* darker dusk so the sun and temple stand out */
+      draw: function (g) {
+        g.vgrad(0, 64, [K, B, M, LR, Y]);
+        var r = g.rng(7);
+        for (var i = 0; i < 24; i++) g.px(r() * W, r() * 18, WH);
+        g.circle(118, 56, 10, [LR, Y, 9]);
+        g.circle(118, 56, 8, g.mono ? WH : Y);
+        g.poly([0, 64, 30, 57, 62, 61, 100, 55, 140, 59, 160, 56, 160, 90, 0, 90], [M, B, 8]);
+        g.poly([8, 90, 36, 54, 52, 41, 92, 39, 108, 50, 130, 66, 160, 75, 160, 90], [N, K, 5]);
+        g.poly([92, 39, 108, 50, 130, 66, 160, 75, 160, 90, 100, 90], [N, K, 10]);
+        /* walls zig-zagging up the hill */
+        g.line(30, 64, 60, 58, L); g.line(60, 58, 44, 50, L); g.line(44, 50, 56, 44, L);
+        /* temple on the summit */
+        g.rect(54, 34, 38, 5, L); g.rect(54, 34, 38, 1, WH);
+        for (var x = 57; x <= 87; x += 5) { g.rect(x, 24, 2, 10, WH); g.px(x + 1, 25, L); g.rect(x + 1, 27, 1, 7, L); }
+        g.rect(55, 21, 36, 3, WH);
+        g.poly([54, 21, 73, 14, 92, 21], WH);
+        g.poly([61, 20, 73, 16, 85, 20], L);
+        /* lower buildings */
+        g.rect(36, 46, 12, 6, L); g.poly([35, 46, 42, 42, 49, 46], R);
+        g.rect(98, 46, 10, 5, L); g.poly([97, 46, 103, 43, 109, 46], R);
+        /* foreground */
+        g.rect(0, 80, W, 10, [G, K, 9]);
+        g.poly([18, 84, 22, 60, 26, 84], [G, K, 6]);
+        g.poly([136, 85, 141, 56, 146, 85], [G, K, 6]);
+        g.poly([146, 86, 149, 68, 152, 86], [G, K, 8]);
+      }
+    },
+
+    /* The proconsul's tribunal */
+    tribunal: {
+      draw: function (g) {
+        g.rect(0, 0, W, 62, L);
+        for (var row = 0, y = 7; y < 62; y += 8, row++) {
+          g.rect(0, y, W, 1, D);
+          for (var x = (row % 2) * 10; x < W; x += 20) g.rect(x, y - 7, 1, 7, D);
+        }
+        [10, 38, 122, 150].forEach(function (cx) {
+          g.rect(cx - 4, 0, 8, 62, WH);
+          g.rect(cx - 2, 0, 1, 62, L); g.rect(cx + 1, 0, 1, 62, L); g.rect(cx + 3, 0, 1, 62, L);
+          g.rect(cx - 6, 3, 12, 3, WH); g.rect(cx - 6, 6, 12, 1, L);
+          g.rect(cx - 6, 58, 12, 4, L);
+        });
+        /* imperial banner */
+        g.rect(72, 0, 1, 34, N);
+        g.rect(66, 6, 14, 20, R);
+        g.rect(66, 26, 14, 1, Y);
+        g.circle(73, 14, 4, Y); g.circle(73, 14, 2, R);
+        g.rect(68, 21, 10, 1, Y);
+        /* floor */
+        g.rect(0, 62, W, 28, N);
+        for (var fy = 66, k = 2; fy < H; fy += k, k++) g.rect(0, fy, W, 1, [N, K, 8]);
+        /* dais and chair */
+        g.rect(90, 60, 66, 4, L); g.rect(90, 60, 66, 1, WH);
+        g.rect(95, 52, 56, 8, L); g.rect(95, 52, 56, 1, WH); g.rect(95, 59, 56, 1, D);
+        g.line(116, 46, 130, 51, Y); g.line(130, 46, 116, 51, Y);
+        fig(g, SEATED, 106, 28, { H: K, S: N, W: WH, M: M }, 2);
+        /* guards with spears */
+        [[52, 59], [132, 30]].forEach(function (p) {
+          g.rect(p[0] + 11, p[1] - 8, 1, 30, N); g.rect(p[0] + 10, p[1] - 11, 3, 3, L); g.px(p[0] + 11, p[1] - 12, WH);
+          person(g, p[0], p[1], R, L, N, null, 2);
+        });
+        /* the accused */
+        person(g, 16, 62, L, K, N, null, 2);
+        person(g, 30, 61, LB, D, N, null, 2);
+      }
+    },
+
+    /* Carpus defiant: chained between two guards, shouting */
+    defiance: {
+      mono: { 8: 4, 4: 0, 12: 4, 14: 8 }, /* in mono: grey wall dotted, red glow dimmer */
+      animate: true,
+      draw: function (g, t) {
+        /* dark stone hall */
+        g.fill(D);
+        for (var row = 0, y = 6; y < 74; y += 7, row++) {
+          g.rect(0, y, W, 1, K);
+          for (var x = (row % 2) * 9; x < W; x += 18) g.rect(x, y - 6, 1, 6, K);
+        }
+        /* archway glowing red behind him */
+        g.rect(52, 14, 56, 60, K);
+        g.circle(80, 16, 28, K);
+        g.rect(56, 16, 48, 58, R);
+        g.circle(80, 18, 24, R);
+        g.vgrad(16, 74, [-1, LR, Y], 56, 104);
+        g.rect(0, 0, 52, 74, D); g.rect(108, 0, 52, 74, D);
+        for (row = 0, y = 6; y < 74; y += 7, row++) {
+          g.rect(0, y, 52, 1, K); g.rect(108, y, 52, 1, K);
+          for (x = (row % 2) * 9; x < W; x += 18) if (x < 52 || x >= 108) g.rect(x, y - 6, 1, 6, K);
+        }
+        g.rect(0, 74, W, 16, [N, K, 6]);
+        /* guards */
+        [[30, 1], [115, -1]].forEach(function (p) {
+          g.rect(p[0] + (p[1] > 0 ? 17 : -3), 22, 2, 52, N);
+          g.poly([p[0] + (p[1] > 0 ? 16 : -4), 22, p[0] + (p[1] > 0 ? 18 : -2), 15, p[0] + (p[1] > 0 ? 20 : 0), 22], L);
+          person(g, p[0], 41, R, L, N, null, 3);
+        });
+        /* Carpus, shaking with anger */
+        var jx = t % 4 < 2 ? 0 : 1;
+        var cx = 70 + jx;
+        person(g, cx, 38, LB, K, N, ARMS_UP, 3);
+        /* chains from his wrists to the guards' hands */
+        g.line(cx + 1, 40, 45, 56, L); g.line(cx + 19, 40, 115, 56, L);
+        for (var k = 0; k < 6; k++) { g.px(cx + 1 - k * 4, 42 + k * 2.7, WH); g.px(cx + 19 + k * 4, 42 + k * 2.7, WH); }
+        /* the shout */
+        if (t % 6 < 4) {
+          g.line(cx + 23, 44, cx + 30, 40, g.mono ? WH : Y); g.line(cx + 24, 47, cx + 32, 47, g.mono ? WH : Y); g.line(cx + 23, 50, cx + 30, 54, g.mono ? WH : Y);
+          g.line(cx - 3, 44, cx - 10, 40, g.mono ? WH : Y); g.line(cx - 4, 47, cx - 12, 47, g.mono ? WH : Y); g.line(cx - 3, 50, cx - 10, 54, g.mono ? WH : Y);
+        }
+        /* jeering crowd in front */
+        crowd(g, 80, [K, K, D], 9);
+        var r = g.rng(t * 7 + 1);
+        for (var f = 0; f < 3; f++) g.rect(Math.floor(r() * W), 74 - Math.floor(r() * 4), 2, 4, K); /* raised fists */
+      }
+    },
+
+    /* The market of Pergamum, smoke rising in the distance */
+    market: {
+      animate: true,
+      draw: function (g, t) {
+        g.vgrad(0, 40, [LB, LC]);
+        smoke(g, 140, 36, t, 3);
+        g.rect(0, 16, W, 3, R); g.rect(0, 19, W, 3, N);
+        g.rect(0, 22, W, 34, L);
+        for (var x = 2; x < W; x += 13) {
+          g.rect(x + 3, 24, 10, 32, [D, L, 5]);
+          g.rect(x, 22, 3, 34, WH);
+        }
+        g.rect(0, 56, W, 34, [N, Y, 1]);
+        /* stalls */
+        function stall(x0, stripe) {
+          g.rect(x0, 44, 1, 20, N); g.rect(x0 + 29, 44, 1, 20, N);
+          for (var i = 0; i < 32; i++) g.line(x0 - 1 + i, 40, x0 - 1 + i, 45, Math.floor(i / 4) % 2 ? WH : stripe);
+          g.rect(x0, 56, 30, 7, N); g.rect(x0, 56, 30, 1, Y);
+          var r = g.rng(x0);
+          for (var k = 0; k < 9; k++) g.circle(x0 + 3 + k * 3, 54, 1, [Y, LR, G, LG][Math.floor(r() * 4)]);
+        }
+        stall(8, R);
+        stall(118, G);
+        /* townspeople */
+        var r = g.rng(42);
+        for (var p = 0; p < 7; p++) person(g, 46 + p * 10 + Math.floor(r() * 4), 56 + Math.floor(r() * 4), [B, M, G, N, R, C, D][p], K, N);
+        /* Agathonice and her son in front */
+        person(g, 66, 62, B, B, N, null, 2);
+        fig(g, CHILD, 78, 72, { H: K, S: N, R: Y }, 2);
+      }
+    },
+
+    /* Before the emperor's statue: the sacrifice */
+    altar: {
+      mono: { 8: 4 },
+      animate: true,
+      draw: function (g, t) {
+        g.fill([K, R, 3]);
+        for (var x = 0; x < 24; x++) g.rect(x, 0, 1, 74, x % 4 === 0 ? K : x % 4 === 1 ? LR : R);
+        for (x = 136; x < W; x++) g.rect(x, 0, 1, 74, x % 4 === 0 ? K : x % 4 === 1 ? LR : R);
+        g.rect(0, 74, W, 16, [D, K, 6]);
+        for (x = 0; x < W; x += 16) g.rect(x, 74, 1, 16, K);
+        /* statue of the emperor */
+        g.rect(94, 46, 22, 28, L); g.rect(94, 46, 22, 1, WH); g.rect(92, 72, 26, 2, L);
+        g.poly([95, 46, 99, 30, 111, 30, 115, 46], L);
+        g.poly([99, 30, 105, 34, 111, 30], WH);
+        g.circle(105, 22, 5, L); g.rect(103, 18, 3, 3, WH);
+        g.px(100, 19, G); g.px(101, 17, G); g.px(103, 16, G); g.px(107, 16, G); g.px(109, 17, G); g.px(110, 19, G);
+        /* altar and incense */
+        g.rect(56, 60, 16, 14, L); g.rect(56, 60, 16, 1, WH); g.rect(58, 65, 12, 1, D);
+        var r = g.rng(t * 13 + 5);
+        for (var k = 0; k < 8; k++) g.px(59 + r() * 10, 59 - r() * 4, k < 3 ? Y : LR);
+        for (var y = 22; y < 56; y++) g.px(64 + Math.sin((y + t) / 4) * 2 + (56 - y) * 0.6, y, y % 3 ? D : L);
+        person(g, 32, 52, N, K, N, OFFERING, 2);
+      }
+    },
+
+    /* The pyres */
+    pyre: {
+      mono: { 6: 8, 4: 8, 12: 16, 8: 4 }, /* bright fire, visible stakes and smoke */
+      animate: true,
+      draw: function (g, t) {
+        g.vgrad(0, 70, [K, B, M, R]);
+        var r = g.rng(11);
+        for (var x = 0; x < W; x += 6 + Math.floor(r() * 6)) g.rect(x, 58 - Math.floor(r() * 10), 6 + Math.floor(r() * 5), 14, K);
+        g.rect(0, 70, W, 20, [N, K, 9]);
+        [58, 102].forEach(function (cx, i) {
+          g.rect(cx - 20, 72, 40, 4, [N, R, 6]);
+          g.rect(cx, 16, 2, 58, N);
+          person(g, cx - 4, 24, WH, i ? K : D, N, null, 2);
+          woodpile(g, cx, 77);
+          flames(g, cx, 74, 15, t, i * 101);
+          smoke(g, cx, 22, t, i * 17);
+        });
+        crowd(g, 79, [K, K, D], 5);
+      }
+    },
+
+    /* Glory: for the true endings */
+    glory: {
+      mono: { 9: 0, 11: 4 },
+      animate: true,
+      draw: function (g, t) {
+        g.vgrad(0, H, [B, LB, LC, WH]);
+        for (var i = 0; i < 7; i++) {
+          var a = -0.9 + i * 0.3;
+          g.poly([80, -4, 80 + Math.tan(a - 0.07) * 100, H, 80 + Math.tan(a + 0.07) * 100, H], [-1, Y, 3 + (t + i) % 3]);
+        }
+        for (var c = 0; c < 9; c++) g.circle(c * 20 + 6, 84, 10, [LC, WH, 10]);
+        [[56, 34], [75, 26], [94, 34]].forEach(function (p, j) {
+          var bob = Math.round(Math.sin((t + j * 5) / 6));
+          g.ring(p[0] + 5, p[1] + 3 + bob, 5, Y);
+          person(g, p[0], p[1] + bob, WH, j === 2 ? B : K, N, null, 2);
+        });
+      }
+    }
+
+    /* , myscene: { draw: function (g) { g.fill(B); ... } }   <- add new scenes here */
+  };
+  window.Scenes = SCENES; /* lets you add scenes from elsewhere, e.g. Scenes.myscene = {...} */
+
+  /* =====================================================================
+     6b. ONE-COLOUR SCENES  (used when ART_STYLE is 'mono')
+     ---------------------------------------------------------------------
+     A separate set of pictures in the style of the original Apple II
+     Oregon Trail: 128 x 72 pixels, each one either lit (MONO_COLOR) or
+     black. Big solid silhouettes; scenery made of vertical lines; dotted
+     smoke. A passage chooses its one-colour picture with  data-mono="name"
+     (if it has none, its data-scene picture is converted instead).
+
+     Drawing commands (b is the picture; v = 1 lit, 0 black):
+       b.rect(x, y, w, h, v)          b.circle(cx, cy, r, v)
+       b.line(x0, y0, x1, y1, v)      b.poly([x,y, x,y, ...], v)
+       b.px(x, y, v)                  single pixel
+       b.stripes(x, y, w, h)          vertical lines on every other column
+       b.ridge(x0, x1, topFn, bottom) striped hill; topFn(x) gives its top edge
+                                      (prof([x,y, x,y, ...]) makes a topFn
+                                      from points)
+       b.dots(x0, y0, x1, y1, gap)    dotted line
+       b.sprite(rows, x, y, scale)    '#' lit, '-' black, anything else clear
+       b.rng(seed)                    repeatable random numbers 0..1
+     Ready-made pieces: ground(b), mflames(...), msmoke(...), logs(...),
+     soldier(...), and the figure sprites ROBED, SOLDIER, M_SEATED, KNEEL,
+     VEILED, VEILED_KNEEL, M_CHILD, FISTS, LEAP, BUST.
+     ===================================================================== */
+  var MW = 128, MH = 72;
+  function Bit() { this.buf = new Uint8Array(MW * MH); }
+  Bit.prototype.px = function (x, y, v) {
+    x = Math.floor(x); y = Math.floor(y);
+    if (x < 0 || y < 0 || x >= MW || y >= MH) return;
+    this.buf[y * MW + x] = v === 0 ? 0 : 1;
+  };
+  ['rect', 'circle', 'ring', 'line', 'poly', 'rng'].forEach(function (k) { Bit.prototype[k] = Pic.prototype[k]; });
+  Bit.prototype.stripes = function (x, y, w, h, phase) {
+    for (var i = Math.floor(x); i < x + w; i++) if (((i + (phase || 0)) & 1) === 0) this.rect(i, y, 1, h, 1);
+  };
+  Bit.prototype.ridge = function (x0, x1, top, bottom, phase) {
+    for (var x = x0; x <= x1; x++) if (((x + (phase || 0)) & 1) === 0) {
+      var t = Math.round(top(x));
+      this.rect(x, t, 1, bottom - t + 1, 1);
+    }
+  };
+  Bit.prototype.dots = function (x0, y0, x1, y1, gap) {
+    var n = Math.max(Math.abs(x1 - x0), Math.abs(y1 - y0)) / (gap || 2);
+    for (var i = 0; i <= n; i++) this.px(x0 + (x1 - x0) * i / n, y0 + (y1 - y0) * i / n, 1);
+  };
+  Bit.prototype.sprite = function (rows, x, y, scale) {
+    var s = scale || 1;
+    for (var j = 0; j < rows.length; j++) for (var i = 0; i < rows[j].length; i++) {
+      var ch = rows[j].charAt(i);
+      if (ch === '#') this.rect(x + i * s, y + j * s, s, s, 1);
+      else if (ch === '-') this.rect(x + i * s, y + j * s, s, s, 0);
+    }
+  };
+  function paintBits(canvas, b) {
+    var ctx = canvas.getContext('2d');
+    var img = ctx.createImageData(MW, MH);
+    for (var i = 0; i < MW * MH; i++) {
+      var c = b.buf[i] ? MONO_RGB : RGB[0];
+      img.data[4 * i] = c[0]; img.data[4 * i + 1] = c[1]; img.data[4 * i + 2] = c[2]; img.data[4 * i + 3] = 255;
+    }
+    ctx.putImageData(img, 0, 0);
+  }
+
+  /* --- one-colour figures ('#' lit, '-' forced black) --- */
+  var ROBED = [
+    '..###..', '..###..', '..###..', '...#...', '.#####.', '#######', '#.###.#', '#.###.#',
+    '#.###.#', '..###..', '.#####.', '.#####.', '.#####.', '#######', '#######', '.##.##.'
+  ];
+  var SOLDIER = [ /* faces right; spear added by soldier() */
+    '.###...', '#####..', '..###..', '..###..', '...#...', '.#####.', '#######', '#.###.#',
+    '#.###.#', '..###..', '.#####.', '.#####.', '..#.#..', '..#.#..', '..#.#..', '.##.##.'
+  ];
+  var M_SEATED = [ /* magistrate on a chair, facing left, pointing */
+    '......###...', '......###..#', '......###..#', '.......#...#', '..########.#', '......####.#',
+    '......####.#', '......####.#', '...#########', '...#########', '...#.....#.#', '...#.....#.#',
+    '...#.....#.#', '..##.....#.#'
+  ];
+  var KNEEL = [ /* kneeling, facing right, hand held out */
+    '.....###.', '.....###.', '.....###.', '......#..', '....#####', '....####.',
+    '....####.', '....####.', '...#####.', '#########', '########.'
+  ];
+  var VEILED = [
+    '..###...', '.#####..', '.#####..', '.#####..', '#######.', '#######.', '#######.', '.#####..',
+    '.#####..', '.#####..', '#######.', '#######.', '#######.', '########', '########', '.##..##.'
+  ];
+  var VEILED_KNEEL = [
+    '..###.....', '.#####....', '.#####....', '.######...', '########..', '#########.',
+    '########.#', '.######..#', '.######..#', '#######.##', '##########', '##########'
+  ];
+  var M_CHILD = ['.##..', '.##..', '..#..', '####.', '#.##.', '.##..', '.##..', '.#.#.', '.#.#.'];
+  var FISTS = [ /* arms raised, fists clenched */
+    '##.....##', '##.....##', '.#.###.#.', '.#.###.#.', '.##.#.##.', '..#####..', '..#####..', '..#####..',
+    '..#####..', '..#####..', '.#######.', '.#######.', '.#######.', '#########', '#########', '##.....##'
+  ];
+  var LEAP = [ /* running, arms flung up */
+    '#.......#', '##.###.##', '.#.###.#.', '.##.#.##.', '..#####..', '..#####..', '..#####..', '..#####..',
+    '.#######.', '.########', '#########', '####.####', '###...###', '##.....##', '#.......#'
+  ];
+  var BUST = [ /* the emperor, laureate, facing left */
+    '......#######.......', '....##########......', '...#.#.########.....', '...############.....',
+    '..#############.....', '..#-##########......', '.#############......', '##############......',
+    '.#############......', '..############......', '.############.......', '..###########.......',
+    '...#########........', '....########........', '.....#######........', '.....########.......',
+    '...###########......', '..#############.....', '.###############....', '####################'
+  ];
+
+  /* --- one-colour helpers --- */
+  function prof(pts) { /* straight-line profile through points [x,y, x,y, ...] */
+    return function (x) {
+      for (var i = 0; i + 3 < pts.length; i += 2)
+        if (x >= pts[i] && x <= pts[i + 2]) return pts[i + 1] + (pts[i + 3] - pts[i + 1]) * (x - pts[i]) / ((pts[i + 2] - pts[i]) || 1);
+      return pts[pts.length - 1];
+    };
+  }
+  function ground(b) { b.stripes(0, 60, MW, MH - 60); } /* the striped band everyone stands above (feet on y 58) */
+  function stars(b, seed, n, maxY) { var r = b.rng(seed); for (var i = 0; i < n; i++) b.px(r() * MW, r() * maxY, 1); }
+  function mflames(b, cx, base, halfW, maxH, t, seed) { /* a solid bed of fire with licking tongues */
+    var r = b.rng(seed + t * 131);
+    var bed = Math.max(3, Math.round(maxH * 0.25));
+    b.poly([cx - halfW, base, cx - halfW + 3, base - bed, cx + halfW - 3, base - bed, cx + halfW, base], 1);
+    var n = Math.max(3, Math.round(halfW / 4));
+    var step = (halfW * 2) / n;
+    for (var i = 0; i < n; i++) {
+      var tx = cx - halfW + (i + 0.5) * step + (r() - 0.5) * 2;
+      var edge = 1 - Math.abs(tx - cx) / (halfW * 1.25);
+      var th = maxH * edge * (0.6 + 0.4 * r());
+      var lean = (r() - 0.5) * step * 0.9;
+      b.poly([tx - step * 0.6, base - bed + 1, tx + lean, base - bed - th, tx + step * 0.6, base - bed + 1], 1);
+      if (th > 10) b.poly([tx - 1, base - bed + 1, tx + lean * 0.5, base - bed - th * 0.45, tx + 1, base - bed + 1], 0); /* inner flicker */
+    }
+    for (var s = 0; s < 5; s++) b.px(cx - halfW + r() * halfW * 2, base - maxH - bed - r() * 8, 1); /* sparks */
+  }
+  function msmoke(b, x, y0, y1, t, drift) { /* dotted column rising from (x,y0) up to y1 */
+    for (var y = y0; y > y1; y -= 2) {
+      var k = y0 - y, w = 1 + Math.floor(k / 9);
+      var cx = x + Math.sin((y + t * 2) / 6) * 2 + k * drift;
+      for (var i = -w; i <= w; i++) if (((Math.floor((y + t) / 2) + i) & 1) === 0) b.px(cx + i * 1.5, y, 1);
+    }
+  }
+  function logs(b, cx, base, rows) { /* firewood seen end-on: rings like wagon wheels */
+    for (var row = 0; row < rows; row++) {
+      var cnt = rows - row + 1;
+      for (var i = 0; i < cnt; i++) {
+        var x = cx - (cnt - 1) * 3 + i * 6, y = base - 3 - row * 5;
+        b.circle(x, y, 3, 0); b.circle(x, y, 2, 1); b.px(x, y, 0);
+      }
+    }
+  }
+  function soldier(b, x, y) {
+    b.sprite(SOLDIER, x, y);
+    b.rect(x + 7, y - 4, 1, 20, 1);
+    b.poly([x + 6, y - 4, x + 7.5, y - 9, x + 9, y - 4], 1);
+  }
+
+  var MONO_SCENES = {
+
+    /* Title: the acropolis of Pergamum under a crescent moon */
+    acropolis: {
+      draw: function (b) {
+        stars(b, 3, 22, 22);
+        b.circle(106, 11, 6, 1); b.circle(109, 9, 6, 0);
+        b.ridge(0, MW - 1, function (x) { return 34 + Math.sin(x / 7) * 3 + Math.sin(x / 3.1) * 2; }, 46);
+        var r = b.rng(5); for (var i = 0; i < 30; i++) { var dx = r() * MW; b.px(dx, 30 + Math.sin(dx / 7) * 3 - r() * 5, 1); }
+        var hill = prof([8, 58, 30, 36, 40, 30, 88, 30, 98, 36, 120, 58]);
+        b.poly([8, 58, 30, 36, 40, 30, 88, 30, 98, 36, 120, 58], 0);
+        b.ridge(8, 120, hill, 57, 1);
+        for (var x = 8; x < 120; x++) b.px(x, hill(x), 1);
+        /* temple */
+        b.rect(42, 27, 44, 3, 1);
+        for (x = 44; x <= 82; x += 5) b.rect(x, 16, 3, 11, 1);
+        b.rect(42, 13, 44, 3, 1);
+        b.poly([40, 13, 64, 5, 88, 13], 1);
+        b.poly([49, 12, 64, 8, 79, 12], 0);
+        /* cypresses */
+        b.poly([11, 58, 15, 40, 19, 58], 1);
+        b.poly([109, 58, 113, 42, 117, 58], 1);
+        ground(b);
+      }
+    },
+
+    /* Papylus: the proconsul points to the altar. Will you sacrifice? */
+    choice: {
+      animate: true,
+      draw: function (b, t) {
+        [[0, 2], [118, 120]].forEach(function (c) {
+          b.rect(c[1], 6, 6, 52, 1); b.rect(c[0], 2, 10, 4, 1); b.rect(c[0], 56, 10, 3, 1);
+          b.rect(c[1] + 2, 8, 1, 46, 0);
+        });
+        b.dots(10, 3, 117, 3, 3);
+        b.rect(84, 48, 32, 11, 1); b.rect(84, 50, 32, 1, 0); b.rect(84, 55, 32, 1, 0);
+        b.sprite(M_SEATED, 96, 34);
+        b.rect(56, 47, 12, 12, 1); b.rect(54, 45, 16, 2, 1); b.rect(59, 50, 6, 6, 0); b.rect(61, 52, 2, 2, 1);
+        var r = b.rng(t * 7 + 2); for (var k = 0; k < 5; k++) b.px(57 + r() * 10, 44 - r() * 3, 1);
+        msmoke(b, 62, 41, 6, t, 0.1);
+        b.sprite(ROBED, 26, 43);
+        ground(b);
+      }
+    },
+
+    /* Carpus: led in chains toward the city gate */
+    procession: {
+      animate: true,
+      draw: function (b, t) {
+        stars(b, 8, 6, 12);
+        b.rect(0, 26, MW, 3, 1);
+        for (var x = 0; x < MW; x += 8) b.rect(x, 22, 4, 4, 1);
+        b.stripes(0, 29, MW, 9);
+        b.rect(84, 10, 24, 16, 1);
+        for (x = 84; x < 108; x += 6) b.rect(x, 7, 3, 3, 1);
+        b.rect(94, 15, 4, 6, 0);
+        b.rect(88, 29, 16, 9, 0); b.circle(96, 29, 8, 0); b.rect(88, 37, 16, 1, 0);
+        var s = (t >> 1) & 1;
+        soldier(b, 92, 43 - s);
+        b.sprite(ROBED, 64, 43 - (1 - s));
+        b.sprite(ROBED, 38, 43 - s);
+        b.dots(45, 50, 64, 50, 2); b.dots(71, 50, 92, 50, 2);
+        ground(b);
+      }
+    },
+
+    /* Curse the Romans: Carpus defiant between two spears */
+    defiant: {
+      animate: true,
+      draw: function (b, t) {
+        var j = (t & 3) < 2 ? 0 : 1;
+        b.sprite(FISTS, 55 + j, 26, 2);
+        b.sprite(SOLDIER, 22, 43);
+        b.line(30, 56, 49, 33, 1); b.poly([47, 33, 52, 29, 50, 35], 1);
+        b.sprite(SOLDIER.map(function (row) { return row.split('').reverse().join(''); }), 99, 43);
+        b.line(98, 56, 79, 33, 1); b.poly([81, 33, 76, 29, 78, 35], 1);
+        if (t % 6 < 4) {
+          b.line(50, 22, 45, 18, 1); b.line(48, 26, 41, 26, 1); b.line(50, 30, 44, 33, 1);
+          b.line(78, 22, 83, 18, 1); b.line(80, 26, 87, 26, 1); b.line(78, 30, 84, 33, 1);
+        }
+        ground(b);
+      }
+    },
+
+    /* Sacrifice: kneeling before the image of the emperor */
+    offering: {
+      animate: true,
+      draw: function (b, t) {
+        b.sprite(BUST, 90, 4);
+        b.rect(92, 24, 18, 2, 1); b.rect(95, 26, 12, 31, 1); b.rect(91, 56, 20, 3, 1);
+        b.rect(97, 30, 8, 1, 0); b.rect(97, 52, 8, 1, 0);
+        b.rect(58, 49, 10, 10, 1); b.rect(56, 47, 14, 2, 1); b.rect(61, 52, 4, 4, 0);
+        var r = b.rng(t * 5 + 1); for (var k = 0; k < 5; k++) b.px(58 + r() * 9, 46 - r() * 3, 1);
+        msmoke(b, 63, 44, 12, t, 0.55);
+        b.sprite(KNEEL, 44, 48);
+        ground(b);
+      }
+    },
+
+    /* Refuse: Papylus nailed to the stake as the fire is lit */
+    stake: {
+      animate: true,
+      draw: function (b, t) {
+        stars(b, 12, 18, 30);
+        b.rect(106, 30, 1, 26, 1); mflames(b, 106, 58, 7, 12, t, 9);
+        b.rect(52, 6, 3, 52, 1);
+        b.sprite(ROBED, 50, 12);
+        mflames(b, 53, 56, 16, 26, t, 1);
+        logs(b, 53, 58, 2);
+        msmoke(b, 54, 10, 0, t, 0.3);
+        ground(b);
+      }
+    },
+
+    /* Agathonice: a mother and son in the market; smoke beyond the roofs */
+    market: {
+      animate: true,
+      draw: function (b, t) {
+        [[0, 18, 22], [20, 14, 28, 1], [36, 22, 18], [62, 16, 24, 1], [80, 20, 20], [102, 26, 26, 1]].forEach(function (h) {
+          var top = 40 - h[2];
+          b.rect(h[0], top, h[1], h[2], 1);
+          if (h[3]) b.poly([h[0] - 1, top, h[0] + h[1] / 2, top - 6, h[0] + h[1] + 1, top], 1);
+          for (var wx = h[0] + 3; wx < h[0] + h[1] - 3; wx += 6) b.rect(wx, top + 4, 2, 3, 0);
+        });
+        msmoke(b, 90, 19, -2, t, 0.25);
+        /* stall */
+        b.rect(4, 44, 1, 14, 1); b.rect(27, 44, 1, 14, 1);
+        for (var x = 2; x < 30; x += 4) b.poly([x, 42, x + 2, 47, x + 4, 42], 1);
+        b.rect(4, 52, 24, 6, 1);
+        for (x = 7; x < 27; x += 4) b.circle(x, 51, 1, 1);
+        b.sprite(VEILED, 58, 43);
+        b.sprite(M_CHILD, 68, 50);
+        b.rect(65, 52, 3, 1, 1);
+        b.sprite(ROBED, 96, 43);
+        b.sprite(ROBED, 110, 43);
+        ground(b);
+      }
+    },
+
+    /* Stand by your decision: cloak cast off, she runs into the fire */
+    leap: {
+      animate: true,
+      draw: function (b, t) {
+        stars(b, 21, 14, 26);
+        b.rect(99, 4, 3, 54, 1);
+        mflames(b, 100, 56, 22, 36, t, 5);
+        logs(b, 100, 58, 2);
+        var hop = (t & 3) < 2 ? 0 : 1;
+        b.sprite(LEAP, 58, 33 - hop);
+        b.dots(40, 37, 54, 37, 2); b.dots(42, 42, 54, 42, 2); b.dots(44, 47, 54, 47, 2);
+        b.poly([16, 58, 20, 53, 28, 51, 34, 54, 37, 58], 1);
+        b.line(22, 56, 30, 53, 0);
+        ground(b);
+      }
+    },
+
+    /* Be convinced: kneeling with her son, watching the smoke rise */
+    vigil: {
+      animate: true,
+      draw: function (b, t) {
+        stars(b, 30, 24, 18);
+        var tops = prof([0, 30, 10, 30, 10, 24, 22, 24, 22, 28, 34, 28, 34, 20, 44, 20, 44, 26, 60, 26, 60, 18, 66, 18, 66, 26,
+          78, 26, 78, 22, 92, 22, 92, 28, 106, 28, 106, 23, 118, 23, 118, 30, 127, 30]);
+        b.ridge(0, MW - 1, tops, 34);
+        mflames(b, 84, 24, 5, 6, t, 3);
+        msmoke(b, 84, 16, -4, t, -0.15);
+        b.sprite(VEILED_KNEEL, 14, 35, 2);
+        b.sprite(M_CHILD, 36, 41, 2);
+        ground(b);
+      }
+    }
+
+    /* , myscene: { draw: function (b, t) { ground(b); ... } }   <- add one-colour scenes here */
+  };
+  window.MonoScenes = MONO_SCENES;
+
+  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var animated = [];
+
+  function mountScenes(passage) {
+    each(passage.querySelectorAll('.scene:not([data-done])'), function (el) {
+      el.setAttribute('data-done', '');
+      var screen = document.createElement('div');
+      screen.className = 'scene-screen';
+      var caption = el.getAttribute('data-caption');
+      if (MONO && el.hasAttribute('data-mono-caption')) caption = el.getAttribute('data-mono-caption');
+      var imgSrc = el.getAttribute('data-img');
+      if (imgSrc) {
+        var img = document.createElement('img');
+        img.src = imgSrc;
+        img.alt = caption || '';
+        screen.appendChild(img);
+      } else if (MONO && MONO_SCENES[el.getAttribute('data-mono')]) {
+        var mname = el.getAttribute('data-mono'), mdef = MONO_SCENES[mname];
+        var mcv = document.createElement('canvas');
+        mcv.width = MW; mcv.height = MH;
+        mcv.setAttribute('role', 'img');
+        mcv.setAttribute('aria-label', caption || mname);
+        screen.appendChild(mcv);
+        var bits = new Bit();
+        try { mdef.draw(bits, 0); } catch (e) { console.error('Mono scene "' + mname + '":', e); }
+        paintBits(mcv, bits);
+        if (mdef.animate && !reduceMotion) animated.push({ cv: mcv, def: mdef, bits: true });
+      } else {
+        var name = el.getAttribute('data-scene');
+        var def = SCENES[name];
+        var cv = document.createElement('canvas');
+        cv.width = W; cv.height = H;
+        cv.setAttribute('role', 'img');
+        cv.setAttribute('aria-label', caption || name || 'scene');
+        screen.appendChild(cv);
+        var g = new Pic(monoMap(def));
+        if (def) {
+          try { def.draw(g, 0); } catch (e) { console.error('Scene "' + name + '":', e); }
+          if (def.animate && !reduceMotion) animated.push({ cv: cv, def: def });
+        } else {
+          g.fill(B);
+          caption = '[no scene named "' + name + '"]';
+        }
+        paint(cv, g);
+      }
+      el.appendChild(screen);
+      if (caption) {
+        var cap = document.createElement('div');
+        cap.className = 'scene-caption';
+        cap.textContent = caption;
+        el.appendChild(cap);
+      }
+    });
+  }
+
+  var frame = 0;
+  setInterval(function () {
+    if (!animated.length) return;
+    frame++;
+    animated = animated.filter(function (a) { return a.cv.isConnected; });
+    animated.forEach(function (a) {
+      try {
+        if (a.bits) { var b = new Bit(); a.def.draw(b, frame); paintBits(a.cv, b); }
+        else { var g = new Pic(monoMap(a.def)); a.def.draw(g, frame); paint(a.cv, g); }
+      } catch (e) {}
+    });
+  }, 140);
+
+  /* ---------- 7. wiring ---------- */
+  function processAll() {
+    each(document.querySelectorAll('tw-passage'), function (p) {
+      mountScenes(p);
+      processNotes(p);
+      processEndings(p);
+      numberLinks(p);
+    });
+    applyNotes();
+  }
+
+  var scheduled = false;
+  new MutationObserver(function () {
+    if (scheduled) return;
+    scheduled = true;
+    requestAnimationFrame(function () { scheduled = false; processAll(); });
+  }).observe(document.documentElement, { childList: true, subtree: true });
+
+  document.addEventListener('click', function (e) {
+    var t = e.target;
+    if (!t.closest) return;
+    var ref = t.closest('.fn-ref');
+    if (ref) {
+      e.preventDefault();
+      if (pop && pop._ref === ref) closePop(); else openPop(ref);
+      return;
+    }
+    if (t.closest('.notes-toggle')) { toggleNotes(); return; }
+    var tab = t.closest('.endings-tab');
+    if (tab) {
+      save('tradition', tab.getAttribute('data-trad'));
+      renderEndingList(tab.closest('.endings-list'), tab.getAttribute('data-trad'));
+      processAll();
+      return;
+    }
+    var reset = t.closest('.endings-reset');
+    if (reset) {
+      var trad = reset.getAttribute('data-trad');
+      if (window.confirm('Forget every ' + tradInfo(trad).name + ' ending you have discovered?')) {
+        var found = load('found', {});
+        Object.keys(found).forEach(function (k) { if (k.indexOf(trad + '|') === 0) delete found[k]; });
+        save('found', found);
+        renderEndingList(reset.closest('.endings-list'), trad);
+        processAll();
+      }
+      return;
+    }
+    if (pop && !t.closest('.fn-pop')) closePop();
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
+    var tag = (e.target.tagName || '').toLowerCase();
+    if (tag === 'input' || tag === 'textarea' || tag === 'select' || e.target.isContentEditable) return;
+    if (e.key === 'Escape') { closePop(); return; }
+    if (/^[1-9]$/.test(e.key)) {
+      var p = currentPassage();
+      var a = p && p.querySelector('tw-link[data-key="' + e.key + '"]');
+      if (a) { e.preventDefault(); closePop(); a.click(); }
+    } else if (e.key === 'n' || e.key === 'N') {
+      toggleNotes();
+    }
+  });
+
+  applyNotes();
+})();
