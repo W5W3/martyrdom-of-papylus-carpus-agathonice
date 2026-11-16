@@ -18,17 +18,3 @@ martyrdom at Pergamum. Follow Papylus, Carpus, or Agathonice and choose how each
 |---|---|
 | `index.html` | The published game (what GitHub Pages serves) |
 | `martyrdom.twee` | The source, for importing into Twine (Library → Import) |
-
-Inside the story, the **Author Guide** passage explains how to add footnotes, sources, pictures and endings.
-
-## Updating the site
-
-1. Edit the story in Twine.
-2. **Build → Publish to File**, and save it over `index.html` in this folder.
-3. Optionally **Build → Export as Twee** and save over `martyrdom.twee`, so the source stays in step.
-4. Commit and push; GitHub Pages updates within a minute or two.
-
-## Sources
-
-Herbert Musurillo, ed. and trans., *The Acts of the Christian Martyrs* (Oxford: Clarendon Press, 1972);
-Eusebius, *Ecclesiastical History* 4.15.48. The icon shown in the game is from the Orthodox Church in America.
